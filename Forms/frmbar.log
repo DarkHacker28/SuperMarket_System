@@ -1,0 +1,25 @@
+Line 296: Class BARCODEWIZLibCtl.BarCodeWiz of control BarCodeWiz1 was not a loaded control class.
+Line 303: The property name m_scaleNumerator in BarCodeWiz1 is invalid.
+Line 304: The property name m_scaleDenominator in BarCodeWiz1 is invalid.
+Line 305: The property name _cx in BarCodeWiz1 is invalid.
+Line 306: The property name _cy in BarCodeWiz1 is invalid.
+Line 309: The property name BackStyle in BarCodeWiz1 is invalid.
+Line 310: The property name Barcode in BarCodeWiz1 is invalid.
+Line 311: The property name BarcodeHeight in BarCodeWiz1 is invalid.
+Line 320: The property name BarcodeTextFont in BarCodeWiz1 is invalid.
+Line 321: The property name BarcodeTextPosition in BarCodeWiz1 is invalid.
+Line 322: The property name BearerBars in BarCodeWiz1 is invalid.
+Line 323: The property name Border in BarCodeWiz1 is invalid.
+Line 324: The property name BottomText in BarCodeWiz1 is invalid.
+Line 333: The property name BottomTextFont in BarCodeWiz1 is invalid.
+Line 334: The property name BottomTextAlignment in BarCodeWiz1 is invalid.
+Line 337: The property name NarrowBarWidth in BarCodeWiz1 is invalid.
+Line 338: The property name OptionalCheckChar in BarCodeWiz1 is invalid.
+Line 339: The property name Orientation in BarCodeWiz1 is invalid.
+Line 340: The property name QuietZone in BarCodeWiz1 is invalid.
+Line 342: The property name StretchBarcodeText in BarCodeWiz1 is invalid.
+Line 343: The property name Symbology in BarCodeWiz1 is invalid.
+Line 344: The property name TopText in BarCodeWiz1 is invalid.
+Line 345: The property name TopTextAlignment in BarCodeWiz1 is invalid.
+Line 354: The property name TopTextFont in BarCodeWiz1 is invalid.
+Line 355: The property name WideToNarrowRatio in BarCodeWiz1 is invalid.

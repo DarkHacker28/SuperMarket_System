@@ -1,0 +1,25 @@
+Line 435: Class BARCODEWIZLibCtl.BarCodeWiz of control bc1 was not a loaded control class.
+Line 441: The property name m_scaleNumerator in bc1 is invalid.
+Line 442: The property name m_scaleDenominator in bc1 is invalid.
+Line 443: The property name _cx in bc1 is invalid.
+Line 444: The property name _cy in bc1 is invalid.
+Line 447: The property name BackStyle in bc1 is invalid.
+Line 448: The property name Barcode in bc1 is invalid.
+Line 449: The property name BarcodeHeight in bc1 is invalid.
+Line 458: The property name BarcodeTextFont in bc1 is invalid.
+Line 459: The property name BarcodeTextPosition in bc1 is invalid.
+Line 460: The property name BearerBars in bc1 is invalid.
+Line 461: The property name Border in bc1 is invalid.
+Line 462: The property name BottomText in bc1 is invalid.
+Line 471: The property name BottomTextFont in bc1 is invalid.
+Line 472: The property name BottomTextAlignment in bc1 is invalid.
+Line 475: The property name NarrowBarWidth in bc1 is invalid.
+Line 476: The property name OptionalCheckChar in bc1 is invalid.
+Line 477: The property name Orientation in bc1 is invalid.
+Line 478: The property name QuietZone in bc1 is invalid.
+Line 480: The property name StretchBarcodeText in bc1 is invalid.
+Line 481: The property name Symbology in bc1 is invalid.
+Line 482: The property name TopText in bc1 is invalid.
+Line 483: The property name TopTextAlignment in bc1 is invalid.
+Line 492: The property name TopTextFont in bc1 is invalid.
+Line 493: The property name WideToNarrowRatio in bc1 is invalid.

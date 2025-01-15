@@ -1,0 +1,39 @@
+Line 178: Class ComctlLib.ListView of control ListView1 was not a loaded control class.
+Line 233: Class SmartCASH.ctrlLiner of control ctrlLiner1 was not a loaded control class.
+Line 395: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 413: Class SmartCASH.ctrlLiner of control ctrlLiner2 was not a loaded control class.
+Line 482: Class ComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 4: Property Icon in frmItem could not be set.
+Line 184: The property name _ExtentX in ListView1 is invalid.
+Line 185: The property name _ExtentY in ListView1 is invalid.
+Line 186: The property name View in ListView1 is invalid.
+Line 187: The property name LabelWrap in ListView1 is invalid.
+Line 188: The property name HideSelection in ListView1 is invalid.
+Line 189: The property name _Version in ListView1 is invalid.
+Line 190: The property name Icons in ListView1 is invalid.
+Line 191: The property name SmallIcons in ListView1 is invalid.
+Line 204: The property name NumItems in ListView1 is invalid.
+Line 210: The property name ColumnHeader(1) in ListView1 is invalid.
+Line 217: The property name ColumnHeader(2) in ListView1 is invalid.
+Line 224: The property name ColumnHeader(3) in ListView1 is invalid.
+Line 231: The property name ColumnHeader(4) in ListView1 is invalid.
+Line 239: The property name _ExtentX in ctrlLiner1 is invalid.
+Line 240: The property name _ExtentY in ctrlLiner1 is invalid.
+Line 398: The property name _ExtentX in ImageList1 is invalid.
+Line 399: The property name _ExtentY in ImageList1 is invalid.
+Line 401: The property name ImageWidth in ImageList1 is invalid.
+Line 402: The property name ImageHeight in ImageList1 is invalid.
+Line 403: The property name MaskColor in ImageList1 is invalid.
+Line 404: The property name _Version in ImageList1 is invalid.
+Line 411: The property name Images in ImageList1 is invalid.
+Line 419: The property name _ExtentX in ctrlLiner2 is invalid.
+Line 420: The property name _ExtentY in ctrlLiner2 is invalid.
+Line 485: The property name _ExtentX in ImageList2 is invalid.
+Line 486: The property name _ExtentY in ImageList2 is invalid.
+Line 488: The property name ImageWidth in ImageList2 is invalid.
+Line 489: The property name ImageHeight in ImageList2 is invalid.
+Line 490: The property name MaskColor in ImageList2 is invalid.
+Line 491: The property name _Version in ImageList2 is invalid.
+Line 498: The property name Images in ImageList2 is invalid.
+Line 518: Property Picture in Image2 could not be set.
+Line 712: Property Picture in Image1 could not be set.

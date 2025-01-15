@@ -1,0 +1,38 @@
+Line 227: Class MSComctlLib.ImageList of control itb32x32 was not a loaded control class.
+Line 540: Class MSComctlLib.ListView of control lvsearch was not a loaded control class.
+Line 631: Class MSComctlLib.ListView of control lstsale was not a loaded control class.
+Line 230: The property name _ExtentX in itb32x32 is invalid.
+Line 231: The property name _ExtentY in itb32x32 is invalid.
+Line 233: The property name ImageWidth in itb32x32 is invalid.
+Line 234: The property name ImageHeight in itb32x32 is invalid.
+Line 235: The property name MaskColor in itb32x32 is invalid.
+Line 236: The property name _Version in itb32x32 is invalid.
+Line 307: The property name Images in itb32x32 is invalid.
+Line 547: The property name _ExtentX in lvsearch is invalid.
+Line 548: The property name _ExtentY in lvsearch is invalid.
+Line 549: The property name View in lvsearch is invalid.
+Line 550: The property name LabelWrap in lvsearch is invalid.
+Line 551: The property name HideSelection in lvsearch is invalid.
+Line 552: The property name FullRowSelect in lvsearch is invalid.
+Line 553: The property name GridLines in lvsearch is invalid.
+Line 554: The property name HotTracking in lvsearch is invalid.
+Line 555: The property name _Version in lvsearch is invalid.
+Line 560: The property name NumItems in lvsearch is invalid.
+Line 564: The property name ColumnHeader(1) in lvsearch is invalid.
+Line 569: The property name ColumnHeader(2) in lvsearch is invalid.
+Line 637: The property name _ExtentX in lstsale is invalid.
+Line 638: The property name _ExtentY in lstsale is invalid.
+Line 639: The property name View in lstsale is invalid.
+Line 640: The property name LabelWrap in lstsale is invalid.
+Line 641: The property name HideSelection in lstsale is invalid.
+Line 642: The property name HideColumnHeaders in lstsale is invalid.
+Line 643: The property name FlatScrollBar in lstsale is invalid.
+Line 644: The property name FullRowSelect in lstsale is invalid.
+Line 645: The property name GridLines in lstsale is invalid.
+Line 646: The property name _Version in lstsale is invalid.
+Line 660: The property name NumItems in lstsale is invalid.
+Line 664: The property name ColumnHeader(1) in lstsale is invalid.
+Line 669: The property name ColumnHeader(2) in lstsale is invalid.
+Line 674: The property name ColumnHeader(3) in lstsale is invalid.
+Line 679: The property name ColumnHeader(4) in lstsale is invalid.
+Line 684: The property name ColumnHeader(5) in lstsale is invalid.
